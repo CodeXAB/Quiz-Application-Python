@@ -1,0 +1,14 @@
+question,choice1,choice2,choice3,choice4,correct_choice
+What type of programming language is Python?,Procedural,Object-Oriented,Functional,All of above,4
+What is the result of 7 + 3.0 in Python?,10,10.0,"10","Error",2
+Which data type is used to store a sequence of characters in Python?,int,str,float,bool,2
+What is the value of the expression True and False?,True,False,Error,None of above,2
+Which keyword is used to indicate the end of a loop in Python?,break,continue,next,done,1
+The range() function is commonly used to generate sequences of what type of numbers?,floating-point,Even numbers,Odd numbers,Integers,4
+In Python a function can return multiple values using which data structure?,List,Dictionary,Tuple,Set,3
+The lambda keyword is used to create what type of functions in Python?,Recursive functions,Generator functions,Class methods,Anonymous Function,4
+Which of the following is not a valid variable name in Python?,my_variable,variable123,123variable,_variable,3
+What is the output of print(3 * 2 ** 3) in Python?,24,26,21,25,1
+Which data type is used to represent a collection of key-value pairs in Python?,Dictionary,List,Tuple,Set,1
+What is the term for a function defined inside another function in Python?,Anonymous Function,Nested Function,Recursive Function,Lambda Function,2
+What does the return statement do in a function?,Prints the result,Ends the program,Exits the function,Returns a value to the caller,4
