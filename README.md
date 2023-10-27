@@ -1,4 +1,3 @@
-# codosft_taskno.5
  Quiz Application
 This project aimed to create an interactive and engaging platform for users to test their knowledge on various topics. The application asks users multiple-choice or fill-in-the-blank questions on a specific topic. The application keeps track of scores, provide feedback on correct/incorrect answers, and offer a variety of questions to make it challenging and engaging.
 
